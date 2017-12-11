@@ -1,1 +1,1 @@
-# Worked examples of python source security approaches
+# Python Source Security Approaches: Worked examples
